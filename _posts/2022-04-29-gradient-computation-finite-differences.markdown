@@ -26,7 +26,7 @@ I had some experiences of using finite difference methods for performance gradie
 * Simultaneous Perturbation Stochastic Approximation (SPSA) [1].
 * Smooth Function Approximation (SFA)[2].
 
-These two algorithms falls in the family of simultaneous perturbation algorithm where the gradient estimate $$\widehat\nabla h$$ takes the form 
+These two algorithms fall in the family of simultaneous perturbation algorithm where the gradient estimate $$\widehat\nabla h$$ takes the form 
 
 $$\begin{aligned}\widehat\nabla h = \dfrac{\delta \Bigl(h(\omega)-h(\theta)\Bigr)}{k}\end{aligned}$$
 

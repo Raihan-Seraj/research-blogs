@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A never ending journey of getting Godot to work with MacOS
-date: 2022-04-29 2:15:20 +0500
+date: 2022-04-30 3:08:20 +0500
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: godot-macos.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
